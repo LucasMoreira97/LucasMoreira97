@@ -1,7 +1,7 @@
 ## Olá! Eu sou Lucas Moreira
 
 
-<div style="display: inline_block">
+<div style="display: inline">
 
   <div align="center">
     <a href="https://github.com/LucasMoreira97">
