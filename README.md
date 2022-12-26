@@ -3,7 +3,7 @@
 <div align="center">
 	<a href="https://github.com/LucasMoreira97">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMoreira97&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoreira97&layout=compact&&theme=codeSTACKr"/>
 </div>
 
 <div style="display: inline;">
